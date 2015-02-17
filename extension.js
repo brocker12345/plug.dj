@@ -98,7 +98,7 @@
         themeLink: http://i.imgur.com/u36VR4n.png,
         fbLink: null,
         youtubeLink: null,
-        website: null,
+        website: http://crazyscraft.com/,
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
